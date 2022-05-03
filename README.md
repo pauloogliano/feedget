@@ -2,7 +2,7 @@
 Feedback Widget (aka FeedGet) is a Next Level Week project from Rocketseat.
 
 ### Techs
-Dillinger uses a number of open source projects to work properly:
+FeedGet uses:
 * Node
 * TypeScript
 * Vite
