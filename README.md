@@ -10,12 +10,24 @@ FeedGet uses:
 * [Phosphor-react](https://github.com/phosphor-icons/phosphor-home) 👉 Icons Library
 * [@headlessui/react (Acessibility)](https://headlessui.dev/) 👉 Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 * [html2canvas](https://html2canvas.hertzen.com/) 👉 Take screenshots
+* Express
+* SQLite
+* [Prisma](https://prisma.io)
+* Nodemailer
 
-### How to run
-After clone this project, execute:
+### How to start the application
+To start front-end, execute:
 
 ```
-npm run dev
+$ cd web
+$ npm run dev
+```
+
+To start back-end, execute:
+
+```
+$ cd server
+$ npm run dev
 ```
 
 License
