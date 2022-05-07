@@ -14,6 +14,7 @@ FeedGet uses:
 * SQLite
 * [Prisma](https://prisma.io)
 * Nodemailer
+* Cors
 
 ### How to start the application
 To start front-end, execute:
